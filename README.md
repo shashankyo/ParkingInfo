@@ -1,6 +1,6 @@
 # ParkingInfo
 
-1.landing
+1.Landing
 
 
 
@@ -10,7 +10,7 @@
 ![landing](https://user-images.githubusercontent.com/114981861/234535364-7f9b4e0b-c2c9-4655-85a3-2404500d47cd.png)
 
 
-2.show
+2.Display
 
 
 
@@ -19,7 +19,7 @@
 ![details](https://user-images.githubusercontent.com/114981861/234535397-511d652b-629d-4a54-9e9e-a0563e1c919d.png)
 
 
-3.delete
+3.Delete
 
 
 
